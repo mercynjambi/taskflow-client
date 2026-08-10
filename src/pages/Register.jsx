@@ -90,7 +90,7 @@ function Register() {
           type="submit"
           className="w-full bg-green text-dark font-semibold py-2.5 rounded-lg hover:opacity-90 transition"
         >
-          Register
+          Register Now
         </button>
 
         <p className="text-sm text-dark/60 mt-4 text-center">
